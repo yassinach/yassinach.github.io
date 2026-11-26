@@ -1,12 +1,12 @@
 // ---------- Language (FR is the main language, EN on demand) ----------
 const META = {
   fr: {
-    title: 'Yassin Achefri — Cybersécurité · SOC · DevSecOps',
-    description: "Yassin Achefri, élève-ingénieur en Réseaux Intelligents et Cybersécurité à l'ENSA Khouribga. SOC et détection, automatisation SOAR, DevSecOps et réseaux. Recherche d'un stage PFE de 6 mois en 2027."
+    title: 'Yassin Achefri — Cybersécurité · SOC · Pentest · DevSecOps',
+    description: "Yassin Achefri, élève-ingénieur en Réseaux Intelligents et Cybersécurité à l'ENSA Khouribga. SOC et détection, pentest, automatisation SOAR, DevSecOps et réseaux. Recherche d'un stage PFE de 6 mois en 2027."
   },
   en: {
-    title: 'Yassin Achefri — Cybersecurity · SOC · DevSecOps',
-    description: 'Yassin Achefri, cybersecurity engineering student at ENSA Khouribga. SOC and detection, SOAR automation, DevSecOps and networking. Looking for a 6-month internship in 2027.'
+    title: 'Yassin Achefri — Cybersecurity · SOC · Pentest · DevSecOps',
+    description: 'Yassin Achefri, cybersecurity engineering student at ENSA Khouribga. SOC and detection, pentest, SOAR automation, DevSecOps and networking. Looking for a 6-month internship in 2027.'
   }
 };
 

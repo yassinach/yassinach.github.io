@@ -72,8 +72,10 @@ html[lang="fr"] [data-l="en"],html[lang="en"] [data-l="fr"]{display:none!importa
 .float-card small{display:block;color:#8794b4;font-size:10px}
 .card-top{top:60px;right:2px}
 .card-bottom{bottom:68px;left:2px}
+.card-left{top:28px;left:14px}
 .card-icon{width:32px;height:32px;display:grid;place-items:center;background:rgba(120,215,200,.1);color:var(--cyan);border-radius:9px;font-size:16px}
 .card-icon.violet{background:rgba(161,151,255,.13);color:#b3aaff}
+.card-icon.amber{background:rgba(245,166,91,.13);color:var(--amber)}
 .art-label{position:absolute;bottom:18px;font-size:9px;letter-spacing:4px;color:#64718f}
 .scroll-note{position:absolute;bottom:35px;left:24px;font-size:9px;letter-spacing:2px;color:#687591}
 .scroll-note .arrow{color:var(--cyan);margin-left:10px}
@@ -265,6 +267,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--cyan);outline-offse
   .orbit-2{width:300px;height:220px}
   .card-top{right:0;top:25px}
   .card-bottom{left:0;bottom:32px}
+  .card-left{left:auto;right:0;top:auto;bottom:92px}
   .float-card{padding:10px}
   .scroll-note{display:none}
   .about-grid{grid-template-columns:1fr}
